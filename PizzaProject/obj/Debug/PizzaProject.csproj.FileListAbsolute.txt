@@ -1,0 +1,10 @@
+C:\Programation Level 2\FirstWinForms\PizzaProject\bin\Debug\PizzaProject.exe.config
+C:\Programation Level 2\FirstWinForms\PizzaProject\bin\Debug\PizzaProject.exe
+C:\Programation Level 2\FirstWinForms\PizzaProject\bin\Debug\PizzaProject.pdb
+C:\Programation Level 2\FirstWinForms\PizzaProject\obj\Debug\PizzaProject.csproj.AssemblyReference.cache
+C:\Programation Level 2\FirstWinForms\PizzaProject\obj\Debug\PizzaProject.Form1.resources
+C:\Programation Level 2\FirstWinForms\PizzaProject\obj\Debug\PizzaProject.Properties.Resources.resources
+C:\Programation Level 2\FirstWinForms\PizzaProject\obj\Debug\PizzaProject.csproj.GenerateResource.cache
+C:\Programation Level 2\FirstWinForms\PizzaProject\obj\Debug\PizzaProject.csproj.CoreCompileInputs.cache
+C:\Programation Level 2\FirstWinForms\PizzaProject\obj\Debug\PizzaProject.exe
+C:\Programation Level 2\FirstWinForms\PizzaProject\obj\Debug\PizzaProject.pdb
